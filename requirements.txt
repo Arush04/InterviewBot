@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+openai==0.28
+python-dotenv
+python-multipart
+torch
+torchaudio
+requests
